@@ -1,8 +1,36 @@
 {
   "projectName": "מסעדה-דלתא-7964",
   "businessName": "מסעדה דלתא",
-  "created": "2025-04-10T09:39:24.867Z",
-  "status": "initialized",
-  "progress": 0,
-  "components": []
+  "description": "אנחנו מסעדה מוביל בתחום המזון עם ניסיון של שנים רבות. אנחנו מתמחים במתן שירות מקצועי ואיכותי ללקוחותינו.",
+  "created": "2025-04-10T09:39:47.578Z",
+  "generatedWith": "webis-generator",
+  "repoName": "webis-site-msadh-dlta-1744277964787",
+  "formData": {
+    "businessName": "מסעדה דלתא",
+    "businessType": "מסעדה",
+    "industry": "קמעונאות",
+    "businessSize": "large",
+    "description": "אנחנו מסעדה מוביל בתחום המזון עם ניסיון של שנים רבות. אנחנו מתמחים במתן שירות מקצועי ואיכותי ללקוחותינו.",
+    "language": "he",
+    "primaryColor": "#96CEB4",
+    "secondaryColor": "#D4A5A5",
+    "typographyStyle": "classic",
+    "animationPreference": "minimal",
+    "headline": "מסעדה מוביל בישראל",
+    "descriptionText": "חווית לקוח מושלמת בכל ביקור",
+    "ctaText": "קבע תור עכשיו",
+    "formFields": "שם, טלפון, אימייל, הודעה",
+    "includeTestimonials": true,
+    "includeFAQ": false,
+    "hasProducts": true,
+    "hasServices": true,
+    "hasPortfolio": true,
+    "needsBookingSystem": true,
+    "metaDescription": "מסעדה מוביל המספק שירות מקצועי ואיכותי. הזמינו תור עוד היום!",
+    "metaKeywords": "מסעדה, שירות, איכות, מקצועיות, ישראל",
+    "designStyles": [
+      "neumorphic",
+      "glassmorphism"
+    ]
+  }
 }
