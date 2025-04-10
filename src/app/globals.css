@@ -36,6 +36,11 @@
   --shadow-neumorphic-btn-hover: 2px 2px 4px rgba(0, 0, 0, 0.1), -2px -2px 4px rgba(255, 255, 255, 0.8), inset 2px 2px 4px rgba(0, 0, 0, 0.05), inset -2px -2px 4px rgba(255, 255, 255, 0.5);
   --blur-glass: 10px;
   --border-glass: 1px solid rgba(255, 255, 255, 0.3);
+
+  --shadow-color: rgba(0, 0, 0, 0.1);
+  --shadow-neumorphic-light: 10px 10px 30px var(--shadow-color), -10px -10px 30px rgba(255, 255, 255, 0.5);
+  --shadow-neumorphic-pressed: inset 8px 8px 16px var(--shadow-color), inset -8px -8px 16px rgba(255, 255, 255, 0.5);
+  --glass-bg: rgba(255, 255, 255, 0.1);
 }
 
     html {
