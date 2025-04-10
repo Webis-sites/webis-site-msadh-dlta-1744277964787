@@ -9,7 +9,12 @@
       --background-end-rgb: 255, 255, 255;
       --primary-color: #96CEB4;
       --secondary-color: #D4A5A5;
-    }
+    
+  --card-blur: 12px;
+  --card-border-radius: 1.25rem;
+  --button-shadow-size: 8px;
+  --animation-speed: 0.3s;
+}
 
     html {
       scroll-behavior: smooth;
