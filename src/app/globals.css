@@ -31,6 +31,11 @@
   --glass-background: rgba(255, 255, 255, 0.7);
   --glass-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
   --glass-blur: 10px;
+
+  --shadow-neumorphic-btn: 4px 4px 8px rgba(0, 0, 0, 0.1), -4px -4px 8px rgba(255, 255, 255, 0.8);
+  --shadow-neumorphic-btn-hover: 2px 2px 4px rgba(0, 0, 0, 0.1), -2px -2px 4px rgba(255, 255, 255, 0.8), inset 2px 2px 4px rgba(0, 0, 0, 0.05), inset -2px -2px 4px rgba(255, 255, 255, 0.5);
+  --blur-glass: 10px;
+  --border-glass: 1px solid rgba(255, 255, 255, 0.3);
 }
 
     html {
