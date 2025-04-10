@@ -1,11 +1,120 @@
 {
-  "timestamp": "2025-04-10T09:39:47.576Z",
+  "timestamp": "2025-04-10T09:40:42.941Z",
   "status": {
-    "totalComponents": 0,
+    "totalComponents": 18,
     "completedComponents": 0,
     "failedComponents": 0,
     "progress": 0
   },
-  "components": [],
+  "components": [
+    {
+      "name": "HeroSection",
+      "type": "hero",
+      "status": "pending",
+      "description": "RTL hero section with headline, description, and booking CTA for a high-end restaurant"
+    },
+    {
+      "name": "NavigationBar",
+      "type": "navigation",
+      "status": "pending",
+      "description": "RTL responsive navigation bar with logo and menu items"
+    },
+    {
+      "name": "AboutSection",
+      "type": "about",
+      "status": "pending",
+      "description": "Section highlighting the restaurant's experience and expertise"
+    },
+    {
+      "name": "FeaturedDishes",
+      "type": "products",
+      "status": "pending",
+      "description": "Showcase of signature dishes with images and descriptions"
+    },
+    {
+      "name": "ServicesSection",
+      "type": "services",
+      "status": "pending",
+      "description": "Section highlighting restaurant services like catering, private events, etc."
+    },
+    {
+      "name": "GallerySection",
+      "type": "portfolio",
+      "status": "pending",
+      "description": "Visual gallery showcasing the restaurant atmosphere and dishes"
+    },
+    {
+      "name": "BookingSystem",
+      "type": "booking",
+      "status": "pending",
+      "description": "Interactive reservation form with date/time picker"
+    },
+    {
+      "name": "TestimonialsSection",
+      "type": "testimonials",
+      "status": "pending",
+      "description": "Customer reviews and testimonials carousel"
+    },
+    {
+      "name": "CTASection",
+      "type": "cta",
+      "status": "pending",
+      "description": "Call-to-action section encouraging table reservations"
+    },
+    {
+      "name": "ContactSection",
+      "type": "contact",
+      "status": "pending",
+      "description": "Contact information and inquiry form"
+    },
+    {
+      "name": "Footer",
+      "type": "footer",
+      "status": "pending",
+      "description": "Site footer with links, social media, and copyright"
+    },
+    {
+      "name": "Button",
+      "type": "component",
+      "status": "pending",
+      "description": "Reusable button component with variants"
+    },
+    {
+      "name": "SectionHeader",
+      "type": "component",
+      "status": "pending",
+      "description": "Reusable section header with title and subtitle"
+    },
+    {
+      "name": "Card",
+      "type": "component",
+      "status": "pending",
+      "description": "Reusable card component for dishes, services, etc."
+    },
+    {
+      "name": "MenuPage",
+      "type": "page",
+      "status": "pending",
+      "description": "Full restaurant menu page with categories and items"
+    },
+    {
+      "name": "GalleryPage",
+      "type": "page",
+      "status": "pending",
+      "description": "Extended gallery page with filtering options"
+    },
+    {
+      "name": "BookingPage",
+      "type": "page",
+      "status": "pending",
+      "description": "Dedicated booking page with extended reservation options"
+    },
+    {
+      "name": "Layout",
+      "type": "layout",
+      "status": "pending",
+      "description": "Root layout component with metadata and global styles"
+    }
+  ],
   "repoName": "webis-site-msadh-dlta-1744277964787"
 }
