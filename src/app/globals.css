@@ -41,6 +41,9 @@
   --shadow-neumorphic-light: 10px 10px 30px var(--shadow-color), -10px -10px 30px rgba(255, 255, 255, 0.5);
   --shadow-neumorphic-pressed: inset 8px 8px 16px var(--shadow-color), inset -8px -8px 16px rgba(255, 255, 255, 0.5);
   --glass-bg: rgba(255, 255, 255, 0.1);
+
+  --glassmorphism-bg: linear-gradient(135deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.05));
+  --glassmorphism-border: 1px solid rgba(255, 255, 255, 0.18);
 }
 
     html {
