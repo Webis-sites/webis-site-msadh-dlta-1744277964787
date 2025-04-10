@@ -14,6 +14,7 @@ import ContactSection from '../components/ContactSection';
 import Footer from '../components/Footer';
 import Button from '../components/Button';
 import SectionHeader from '../components/SectionHeader';
+import Card from '../components/Card';
 
 export default function HomePage() {
   return (
@@ -33,6 +34,7 @@ export default function HomePage() {
     <Footer />
     <Button />
     <SectionHeader />
+    <Card />
   </main>
       
       <footer className="py-6 bg-gray-100 dark:bg-gray-800">
