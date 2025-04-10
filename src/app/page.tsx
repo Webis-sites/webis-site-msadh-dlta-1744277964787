@@ -16,6 +16,7 @@ import Button from '../components/Button';
 import SectionHeader from '../components/SectionHeader';
 import Card from '../components/Card';
 import MenuPage from '../components/MenuPage';
+import GalleryPage from '../components/GalleryPage';
 
 export default function HomePage() {
   return (
@@ -37,6 +38,7 @@ export default function HomePage() {
     <SectionHeader />
     <Card />
     <MenuPage />
+    <GalleryPage />
   </main>
       
       <footer className="py-6 bg-gray-100 dark:bg-gray-800">
