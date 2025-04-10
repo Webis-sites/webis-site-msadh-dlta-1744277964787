@@ -18,6 +18,7 @@ import Card from '../components/Card';
 import MenuPage from '../components/MenuPage';
 import GalleryPage from '../components/GalleryPage';
 import BookingPage from '../components/BookingPage';
+import Layout from '../components/Layout';
 
 export default function HomePage() {
   return (
@@ -41,6 +42,7 @@ export default function HomePage() {
     <MenuPage />
     <GalleryPage />
     <BookingPage />
+    <Layout />
   </main>
       
       <footer className="py-6 bg-gray-100 dark:bg-gray-800">
