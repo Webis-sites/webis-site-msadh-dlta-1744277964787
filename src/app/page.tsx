@@ -7,6 +7,7 @@ import AboutSection from '../components/AboutSection';
 import FeaturedDishes from '../components/FeaturedDishes';
 import ServicesSection from '../components/ServicesSection';
 import GallerySection from '../components/GallerySection';
+import BookingSystem from '../components/BookingSystem';
 
 export default function HomePage() {
   return (
@@ -19,6 +20,7 @@ export default function HomePage() {
     <FeaturedDishes />
     <ServicesSection />
     <GallerySection />
+    <BookingSystem />
   </main>
       
       <footer className="py-6 bg-gray-100 dark:bg-gray-800">
