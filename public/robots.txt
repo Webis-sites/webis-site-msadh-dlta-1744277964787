@@ -1,0 +1,7 @@
+
+    # robots.txt for מסעדה דלתא
+    User-agent: *
+    Allow: /
+
+    # Sitemap
+    Sitemap: https://מסעדה-דלתא.com/sitemap.xml
