@@ -1,8 +1,11 @@
 {
-  "projectName": "מסעדה-דלתא-7964",
-  "businessName": "מסעדה דלתא",
-  "created": "2025-04-10T09:39:24.867Z",
-  "status": "initialized",
-  "progress": 0,
-  "components": []
+  "timestamp": "2025-04-10T09:39:47.576Z",
+  "status": {
+    "totalComponents": 0,
+    "completedComponents": 0,
+    "failedComponents": 0,
+    "progress": 0
+  },
+  "components": [],
+  "repoName": "webis-site-msadh-dlta-1744277964787"
 }
