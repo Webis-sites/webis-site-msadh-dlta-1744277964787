@@ -25,6 +25,12 @@
   --shadow-neumorphic-sm: 5px 5px 10px rgba(0, 0, 0, 0.05), -5px -5px 10px rgba(255, 255, 255, 0.5);
   --shadow-neumorphic-hover: 6px 6px 12px rgba(0, 0, 0, 0.1), -6px -6px 12px rgba(255, 255, 255, 0.7), inset 1px 1px 2px rgba(255, 255, 255, 0.3);
   --shadow-glass: 0 4px 30px rgba(0, 0, 0, 0.1);
+
+  --neumorphic-shadow-light: 8px 8px 16px rgba(174, 174, 192, 0.4), -8px -8px 16px rgba(255, 255, 255, 0.8);
+  --neumorphic-shadow-dark: inset 2px 2px 5px rgba(174, 174, 192, 0.4), inset -3px -3px 7px rgba(255, 255, 255, 0.8);
+  --glass-background: rgba(255, 255, 255, 0.7);
+  --glass-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+  --glass-blur: 10px;
 }
 
     html {
